@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thilak</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **React and MongoDB**
+- 🌱 I’m currently learning **ReactJS and NextJS**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/thilaknv?tab=repositories)
 
@@ -21,17 +21,30 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><a href="https://github.com/thilaknv">
-    <img src="https://skillicons.dev/icons?i=c,java&perline=3" />
-</a></p>
-<p align="left"><a href="https://github.com/thilaknv">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb" />
-</a></p>
-<p align="left"><a href="https://github.com/thilaknv">
-  <img src="https://skillicons.dev/icons?i=bootstrap,vercel&perline=3" />
-  <img src="https://github.com/npm/logos/blob/master/npm%20square/n-64.png" height='48px'/>
-</a></p>
-<p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilaknv&show_icons=true&locale=en&layout=compact" alt="thilaknv"></p>
+<p align="left">
+    <a href="https://github.com/thilaknv">
+        <img src="https://skillicons.dev/icons?i=c,java,python&perline=3" />
+    </a>
+</p>
+<p align="left">
+    <a href="https://github.com/thilaknv">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react" />
+    </a>
+</p>
+<p align="left">
+    <a href="https://github.com/thilaknv">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" />
+    </a>
+</p>
+<p align="left">
+    <a href="https://github.com/thilaknv">
+      <img src="https://skillicons.dev/icons?i=vercel&perline=3" />
+      <img src="https://github.com/npm/logos/blob/master/npm%20square/n-64.png" height='48px'/>
+    </a>
+</p>
+<p align='left'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilaknv&show_icons=true&locale=en&layout=compact" alt="thilaknv">
+</p>
 
 <hr>
 

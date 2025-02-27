@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Thilak</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS and NextJS**
+- 🌱 I’m currently learning **Spring and Apache Kafka**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/thilaknv?tab=repositories)
 
-- 💬 Ask me about **Web Development, Programming**
+- 💬 Ask me about **Programming**
 
 - 📫 Reach out me at **thilakgowdanv@gmail.com**
 
